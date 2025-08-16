@@ -4,7 +4,6 @@
 
 <p>
   <li> I'm a Self Learner. </li>
-  <li> I'm an Udergraduate Computer Engineering Student. </li>
   <li> Passionate about implementing and launching new projects.</li>
 </p>
 
