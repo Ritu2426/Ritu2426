@@ -1,4 +1,4 @@
-## <h1 align="center"> Hi there, I'm Ritu Banker👋 </h1>
+## <h1 align="center"> Hi there, I'm Ritu👋 </h1>
 
 <h3> ✨ About Me </h3>
 
