@@ -8,7 +8,7 @@
 
 ### ✨ About Me
 
-- 💻 Full Stack Developer at **Capgemini** — working with React, Node.js, and Microsoft Azure
+- 💻 Full Stack Developer working with React, Node.js, and Microsoft Azure
 - 🌍 I build software because I love seeing it actually *used* — by real people, solving real problems
 - 🔐 Obsessed with clean, secure code — reduced security vulnerabilities by **80%+** on a live enterprise platform
 - 🎯 Currently exploring new opportunities in Full Stack Development
